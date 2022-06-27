@@ -1,2 +1,2 @@
-# desafio-projeto-estudando-JavaScript
-Estudando JavaScript
+# Estudando JavaScript
+Primeiros passos no JavaScript
